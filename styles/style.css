@@ -90,7 +90,7 @@ h4 {
             #005fac 0%,
             rgba(0, 95, 172, 0) 100%
         ),
-        url(../images/watch.png);
+        url(/images/watch.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
